@@ -175,3 +175,6 @@ cython_debug/
 
 # Ignore this file
 .DS_Store
+
+# Ignore Qdrant Vector Store
+**/qdrant_star_wars
